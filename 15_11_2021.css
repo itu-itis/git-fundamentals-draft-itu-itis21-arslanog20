@@ -1,7 +1,11 @@
 h1 {
 	font-size: 24pt;
 	color: red;
-	text-decoration: underline;
+	text-align:center;
+	border: thick solid red;
+	padding: 1ex;
+	width: 50%;
+	text-decoration: none;
 	font-family: tahoma, helvetica, sans-serif;			
 	}
 em	{
@@ -32,13 +36,4 @@ p.centered{
 	width: 40%;
 
 }
-
-h1{
-	text-align:center;
-	border: thick solid red;
-	padding: 1ex;
-	width: 50%;
-	text-decoration: none;
-}
-
 
